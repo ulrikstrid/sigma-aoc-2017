@@ -1,0 +1,15 @@
+[ignore]
+
+[include]
+
+[libs]
+/flow-typed/
+
+[lints]
+all=warn
+
+[options]
+emoji=true
+
+[version]
+0.61.0
